@@ -1,3 +1,4 @@
+/*
 let cities = []
 let i = 0
 let doneWithCities = false
@@ -13,3 +14,4 @@ while (j < cities.length) {
     console.log(cities[j].toLowerCase())
     j++
 }
+*/
