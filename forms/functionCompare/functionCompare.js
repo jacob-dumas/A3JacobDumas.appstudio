@@ -1,3 +1,4 @@
+/*
 function compare(pass1, pass2) {
     let answer = pass1.localeCompare(pass2)
     return answer
@@ -12,3 +13,4 @@ if (answer == 0)
     console.log("The passwords are the same")
 else
     console.log("The passwords are not the same")
+*/
