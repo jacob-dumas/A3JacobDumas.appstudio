@@ -49,6 +49,14 @@
             "dogStoreApp",
             "dogStoreApp.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "extraCredit",
+            "extraCredit.json"
+          ]
         }
       ],
       "configxml": null,
